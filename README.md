@@ -9,4 +9,4 @@
 </p>
 <br>
 <br>
-<p>Além disso, foi adaptado também para a versão Mobile. :iphone:</p>
+<p>Além disso, é um projeto responsivo para a versão Mobile. :iphone:</p>
